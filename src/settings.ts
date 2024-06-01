@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 'Flair AC';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = 'homebridge-flair';
+export const PLUGIN_NAME = '@mm2ha/homebridge-flair';

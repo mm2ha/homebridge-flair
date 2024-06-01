@@ -1,7 +1,7 @@
 {
   "displayName": "Homebridge Flair AC",
   "name": "@mm2ha/homebridge-flair",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
